@@ -1,2 +1,2 @@
 # This is My Project
-& My namr is Tejraj Meena
+& My name is Tejraj Meena
